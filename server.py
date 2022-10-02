@@ -3,6 +3,7 @@ import random
 
 app = Flask(__name__)
 
+print("git-hub")
 
 nextID = 4
 topics = [
